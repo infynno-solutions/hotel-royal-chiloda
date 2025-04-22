@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const roomData = {
         deluxe: {
             title: 'Deluxe Room',
-            price: '₹1299/-',
+            price: '₹1500/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -54,15 +54,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
-                'images/Hotel Royal Chiloda/Deluxe Room/1.jpg',
-                'images/Hotel Royal Chiloda/Deluxe Room/2.jpg',
-                'images/Hotel Royal Chiloda/Deluxe Room/3.jpg',
-                'images/Hotel Royal Chiloda/Deluxe Room/4.jpg'
+                'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0149.jpg',
+                'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0150.jpg',
+                'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0152.jpg',
+                'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0153.jpg',
             ]
         },
         suite: {
             title: 'Super Deluxe Room',
-            price: '₹1999/-',
+            price: '₹1800/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -71,15 +71,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
-                'images/Hotel Royal Chiloda/Super Deluxe/1.jpg',
-                'images/Hotel Royal Chiloda/Super Deluxe/3.jpg',
-                'images/Hotel Royal Chiloda/Super Deluxe/4.jpg',
-                'images/Hotel Royal Chiloda/Super Deluxe/2.jpg',
+                'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0213.jpg',
+                'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0214.jpg',
+                'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0216.jpg',
+                'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0223.jpg',
             ]
         },
         family: {
             title: 'Family Room',
-            price: '₹2900/-',
+            price: '₹2500/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
                 { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
@@ -88,12 +88,29 @@ document.addEventListener('DOMContentLoaded', function () {
                 { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
-                'images/Hotel Royal Chiloda/Family Room/1.jpg',
-                'images/Hotel Royal Chiloda/Family Room/2.jpg',
-                'images/Hotel Royal Chiloda/Family Room/3.jpg',
-                'images/Hotel Royal Chiloda/Family Room/4.jpg',
+                'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0169.jpg',
+                'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0170.jpg',
+                'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0174.jpg',
+                'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0176.jpg',
             ]
         },
+        studio: {
+            title: 'Triple Bed Room',
+            price: '₹2000/-',
+            description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
+            facilities: [
+                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
+                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
+                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
+                { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
+            ],
+            roomImage: [
+                'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0188.jpg',
+                'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0189.jpg',
+                'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0191.jpg',
+                'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0192.jpg',
+            ]
+        }
     };
 
     let currentImageIndex = 0;

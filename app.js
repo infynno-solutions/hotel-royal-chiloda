@@ -4,24 +4,27 @@ let currentIndex = 0;
 let currentSection = 'Entrance';
 const images = {
   'Entrance': [
-    './images/Hotel Royal Chiloda/Entrance/Entrance.jpg',
-    './images/Hotel Royal Chiloda/Entrance/IMG-633339550.jpg',
-    './images/Hotel Royal Chiloda/Entrance/IMG-633699059.jpg',
-    './images/Hotel Royal Chiloda/Entrance/IMG-633339548.jpg',
+    './images/Hotel Royal Chiloda/Entrance/IMG-20250421-WA0143.jpg',
+    './images/Hotel Royal Chiloda/Entrance/IMG-20250421-WA0144.jpg',
+    './images/Hotel Royal Chiloda/Entrance/IMG-20250421-WA0147.jpg',
+    './images/Hotel Royal Chiloda/Entrance/IMG-20250421-WA0148.jpg',
   ],
   'Rooms': [
-    'images/Hotel Royal Chiloda/Deluxe Room/1.jpg',
-    'images/Hotel Royal Chiloda/Deluxe Room/3.jpg',
-    'images/Hotel Royal Chiloda/Deluxe Room/4.jpg',
-    'images/Hotel Royal Chiloda/Family Room/1.jpg',
-    'images/Hotel Royal Chiloda/Family Room/2.jpg',
-    'images/Hotel Royal Chiloda/Super Deluxe/2.jpg',
-    'images/Hotel Royal Chiloda/Super Deluxe/3.jpg',
-    'images/Hotel Royal Chiloda/Super Deluxe/4.jpg',
+    'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0151.jpg',
+    'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0188.jpg',
+    'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0189.jpg',
+    'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0169.jpg',
+    'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0151.jpg',
+    'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0174.jpg',
+    'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0213.jpg',
+    'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0216.jpg',
+    'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0223.jpg',
   ],
   'Outdoors': [
-    './images/Hotel Royal Chiloda/Outdoors/outdoor1-Chiloda.jpg',
-    './images/Hotel Royal Chiloda/Outdoors/outdoor2-Chiloda.jpg',
+    './images/Hotel Royal Chiloda/Outdoors/IMG-20250421-WA0193.jpg',
+    './images/Hotel Royal Chiloda/Outdoors/IMG-20250421-WA0196.jpg',
+    './images/Hotel Royal Chiloda/Outdoors/IMG-20250421-WA0208.jpg',
+    './images/Hotel Royal Chiloda/Outdoors/IMG-20250421-WA0212.jpg',
     // Add more images as needed
   ]
 };
