@@ -48,10 +48,10 @@ document.addEventListener('DOMContentLoaded', function () {
             price: '₹1500/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
-                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
-                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
-                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
-                { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
+                { icon: './Hotel Icon and Image/icon/Wifi.svg', name: 'Wi-Fi' },
+                { icon: './Hotel Icon and Image/icon/TV.svg', name: 'TV' },
+                { icon: './Hotel Icon and Image/icon/call.svg', name: 'Room Service' },
+                { icon: './Hotel Icon and Image/icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
                 'images/Hotel Royal Chiloda/Deluxe Room/IMG-20250421-WA0149.jpg',
@@ -65,10 +65,10 @@ document.addEventListener('DOMContentLoaded', function () {
             price: '₹1800/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
-                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
-                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
-                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
-                { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
+                { icon: './Hotel Icon and Image/icon/Wifi.svg', name: 'Wi-Fi' },
+                { icon: './Hotel Icon and Image/icon/TV.svg', name: 'TV' },
+                { icon: './Hotel Icon and Image/icon/call.svg', name: 'Room Service' },
+                { icon: './Hotel Icon and Image/icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
                 'images/Hotel Royal Chiloda/Super Deluxe/IMG-20250421-WA0213.jpg',
@@ -82,10 +82,10 @@ document.addEventListener('DOMContentLoaded', function () {
             price: '₹2500/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
-                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
-                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
-                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
-                { icon: './Hotel Icon and Image/Icon/parking.svg', name: 'Free Parking' },
+                { icon: './Hotel Icon and Image/icon/Wifi.svg', name: 'Wi-Fi' },
+                { icon: './Hotel Icon and Image/icon/TV.svg', name: 'TV' },
+                { icon: './Hotel Icon and Image/icon/call.svg', name: 'Room Service' },
+                { icon: './Hotel Icon and Image/icon/parking.svg', name: 'Free Parking' },
             ],
             roomImage: [
                 'images/Hotel Royal Chiloda/Family Room/IMG-20250421-WA0169.jpg',
@@ -99,10 +99,10 @@ document.addEventListener('DOMContentLoaded', function () {
             price: '₹2000/-',
             description: 'The way we travel and move has changed in the last few years. We no longer want the typical photo that all our contacts post on Instagram...',
             facilities: [
-                { icon: './Hotel Icon and Image/Icon/Wifi.svg', name: 'Wi-Fi' },
-                { icon: './Hotel Icon and Image/Icon/TV.svg', name: 'TV' },
-                { icon: './Hotel Icon and Image/Icon/call.svg', name: 'Room Service' },
-                { icon: './Hotel Icon and Image/Icon/Office area.svg', name: 'Work Area' },
+                { icon: './Hotel Icon and Image/icon/Wifi.svg', name: 'Wi-Fi' },
+                { icon: './Hotel Icon and Image/icon/TV.svg', name: 'TV' },
+                { icon: './Hotel Icon and Image/icon/call.svg', name: 'Room Service' },
+                { icon: './Hotel Icon and Image/icon/Office area.svg', name: 'Work Area' },
             ],
             roomImage: [
                 'images/Hotel Royal Chiloda/Triple Bed Room/IMG-20250421-WA0188.jpg',
